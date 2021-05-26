@@ -3,7 +3,6 @@ waga_count = 0
 maks_kg_paczka = 20
 ilosc_count = 0
 suma_pustych = 0
-suma_paczek = 0
 min_paczka = 0
 min_paczka_numer = 0
 przedmiot = input()
